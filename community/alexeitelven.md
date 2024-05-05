@@ -1,5 +1,5 @@
 # Olá! 👋🏻
-Meu nome é Alex Eitelven, tenho 27 anos. Sou ciêntisda da computação formado pela Universidade de Caxias do Sul (UCS).
+Meu nome é Alex Eitelven, tenho 27 anos. Sou ciêntista da computação formado pela Universidade de Caxias do Sul (UCS).
 Já possuo duas Pós graduações,  Analise e desenvolvimento de sistemas e um MBA em segurança da informação, ambas pela faculdade Descomplica.
 Atualmente estou cursando outra Pós graduação agora em Desenvolvimento de jogos digitais.
 Trabalho na área de TI há 8 anos.
